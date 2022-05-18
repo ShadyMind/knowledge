@@ -1,6 +1,6 @@
-#document #md #markdown #format #image
 
-Вставка изображения: 
+
+Вставка #изображения в #документ #markdown: 
 
 ![alt](https://source.unsplash.com/random)
 
